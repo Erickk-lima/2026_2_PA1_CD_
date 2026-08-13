@@ -1,4 +1,9 @@
  2026_2_PA1_CD_
+Projeto da cadeira de *Projeto Aplicado ao Desenvolvimento de Software*
+
+Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo
+
+---
 
 # Atividade É, Não é, Faz e Não faz *(Escopo da solução)*
 ## **É**
@@ -35,5 +40,7 @@
 - Garantia ou arbitragem de disputas em quadras/espaços privados.
 - Gerenciamento de arbitragem ou súmulas virtuais em tempo real para jogos amadores.
 - Rastreamento contínuo por GPS em tempo real de corridas, pedaladas ou dados biométricos.
+
+---
 
 # Mapa de Empatia
