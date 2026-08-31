@@ -50,7 +50,13 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo
 
 ---
 
-### Mapa de Empatia
+### Mapas de Empatia
+
+#### Proprietários
+
+#### Educadores
+
+#### Praticantes
 
 
 ---
@@ -58,8 +64,11 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo
 ### Segmentos de Clientes
 
 #### Proprietários
-#### Educadores Físicos
-#### Alunos e atletas
+- Organizadores, Secretaria Municipal.
+#### Educadores
+- Personal Trainer, Mentores e Treinadores.
+#### Praticantes
+- Alunos, Atletas.
 
 ---
 
