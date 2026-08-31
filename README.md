@@ -103,34 +103,57 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 #### Proprietários
 
-##### Job
+| Job                                                                              | Dor                                                                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Criar os locais de encontros para práticas esportivas (Criar Eventos)** | **Locais ficam vazios pela falta de acesso a informação de determinado local** |
+| **Adquirir novos alunos de modalidades diferentes**                        | **Dificuldade para encontrar novos alunos**                                      |
+| **Estar mais disponível em buscas de pessoas que desejam algum esport**e  | **Baixa visibilidade**                                                           |
+| **Estar mais disponível em buscas de pessoas que desejam algum esport**e  | **Baixa demanda de novos esportes**                                              |
+|                                                                                  |                                                                                        |
+|                                                                                  |                                                                                        |
 
-- Criar
-- 
-- 
+#### Educadores
 
-##### Dor
-- 
-- 
-- 
+| Job | Dor |
+| --- | --- |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+#### Praticantes
+
+| Job | Dor |
+| --- | --- |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
 
 ---
 
 ### Gatilhos para agir
+
 #### Proprietários
+
 - Pessoas reclamando da dificuldade de encontrar eventos em locais dedicados a pratica esportiva.
 - Desejo de propagar a pratica de novas modalidades que são menos populares.
 - Vontade de ter uma maior organização em relação aos eventos por meio de um sistema informacional.
 - Necessidade de aprimorar os eventos esportivos que não envolvem a participação de educadores físicos.
 
 #### Educadores
-- Pessoas se queixando da falta de informação em relação a preparação esportiva.
 
+- Pessoas se queixando da falta de informação em relação a preparação esportiva.
 - Necessidade de encontrar um canal de divulgação para sua contratação.
 - Queda de vendas e de alunos percebidos pela instabilidade e pela rotatividade desses alunos.
 - Frustração ao não conseguir alcançar o publico que pratica ao ar livre ou em arenas.
 
 #### Praticantes
+
 - Desejo de encontrar um local para realizar a prática de algum esporte.
 - Frustração ao tentar aprender uma modalidade sozinho e não obter progresso.
 - Vontade de aprender ou praticar uma modalidade menos popular com outras pessoas.
@@ -139,21 +162,26 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 ---
 
 ### Emoções
+
 #### Proprietários
+
 - **Antes:** Frustração de conseguir praticantes para modalidades novas ou mais desconhecidas, Estresse ao organizar eventos pela descentralização das informações, preocupação com perda de ganhos pela falta de divulgação e desinformação das pessoas, preocupação em manter a qualidade dos eventos pela participação de profissionais qualificados.
 - **Depois:** Tranquilidade ao ter uma plataforma que divulga as modalidades desconhecidas, incentivando a experimentação de praticantes. Confiança no funcionamento e no andamento dos eventos a partir da centralização.
 
 #### Educadores
+
 - **Antes:**
 - **Depois:**
 
 #### Praticantes
+
 - **Antes:**
 - **Depois:**
 
 ---
 
 ### Soluções Disponíveis
+
 #### Proprietários
 
 #### Educadores
