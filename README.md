@@ -136,3 +136,26 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 - Vontade de aprender ou praticar uma modalidade menos popular com outras pessoas.
 - Experiência ruim com a superlotação de eventos esportivos e por isso não conseguir participar.
 
+---
+
+### Emoções
+#### Proprietários
+- **Antes:** Frustração de conseguir praticantes para modalidades novas ou mais desconhecidas, Estresse ao organizar eventos pela descentralização das informações, preocupação com perda de ganhos pela falta de divulgação e desinformação das pessoas, preocupação em manter a qualidade dos eventos pela participação de profissionais qualificados.
+- **Depois:** Tranquilidade ao ter uma plataforma que divulga as modalidades desconhecidas, incentivando a experimentação de praticantes. Confiança no funcionamento e no andamento dos eventos a partir da centralização.
+
+#### Educadores
+- **Antes:**
+- **Depois:**
+
+#### Praticantes
+- **Antes:**
+- **Depois:**
+
+---
+
+### Soluções Disponíveis
+#### Proprietários
+
+#### Educadores
+
+#### Praticantes
