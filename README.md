@@ -86,7 +86,7 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 #### Proprietários
 
-- **Entrevista:** https://docs.google.com/[document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU/edit?tab=t.0
+- **Entrevista:** https://docs.google.com/document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU/edit?tab=t.0#heading=h.z8uy5sgfb3ds
 - **Formulário:** https://docs.google.com/forms/d/e/1FAIpQLSd8m3vw9vIEf5k7tM3u0t55znOSXPIqH8rj7ygS1-WrcCkmMA/viewform?usp=sharing&ouid=110855864352798958630
 
 #### Educadores
