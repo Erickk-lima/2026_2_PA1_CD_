@@ -114,25 +114,25 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 #### Educadores
 
-| Job | Dor |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+| Job                                                                                     | Dor                                                                                                         |
+| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Aulas particulares com alunos**                                                 | **Falta de informação de determinado educador físico**                                             |
+| **Oferecer orientação profissional aos praticantes em arenas ou ao ar livre**   | **Dificuldade em alcançar pessoas que já estão decididas a praticar esportes ao ar livre/arenas.** |
+| **Divulga seu trabalho com amigos e conhecidos que desejam a prática esportiva** | **Sem canal de divulgação de seu trabalho (dependendo apenas de redes sociais)**                         |
+| **Encontrar uma fonte estável de renda e de alunos ou atletas**                  | **Incerteza de renda e alta rotatividade de alunos.**                                                 |
+|                                                                                         |                                                                                                             |
+|                                                                                         |                                                                                                             |
 
 #### Praticantes
 
-| Job | Dor |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+| Job                                                                                   | Dor                                                                                                          |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Encontrar locais para praticar algum esporte (Explorar eventos)**             | **Não saber a localidade precisa de onde irá ocorrer um encontro de uma modalidade**                      |
+| **Confirmar presença em algum evento**                                         | **Dificuldade de garantir participação em eventos esportivos muito lotados ou informais**            |
+| **Se sociabilizar para encontrar novas pessoas que gostam da mesma modalidade** | **Falta de integração entre praticantes,Não saber com quem irá praticar ou quem estará presente** |
+| **Descobrir novos esportes**                                                    | **Falta de informação sobre esportes menos populares e locais onde são praticados.**                |
+|                                                                                       |                                                                                                              |
+|                                                                                       |                                                                                                              |
 
 ---
 
