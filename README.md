@@ -54,9 +54,15 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 #### Proprietários
 
+![1788222410875](image/README/1788222410875.png)
+
 #### Educadores
 
+![1788222554095](image/README/1788222554095.png)
+
 #### Praticantes
+
+![1788222054741](image/README/1788222054741.png)
 
 ---
 
@@ -80,7 +86,7 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 #### Proprietários
 
-- **Entrevista:** https://docs.google.com/document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU/edit?tab=t.0#heading=h.z8uy5sgfb3ds
+- **Entrevista:** https://docs.google.com/[document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU/edit?tab=t.0
 - **Formulário:** https://docs.google.com/forms/d/e/1FAIpQLSd8m3vw9vIEf5k7tM3u0t55znOSXPIqH8rj7ygS1-WrcCkmMA/viewform?usp=sharing&ouid=110855864352798958630
 
 #### Educadores
@@ -95,11 +101,7 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 ---
 
-### Jobs to be done - Funcional
-
----
-
-### Jobs to be done - Dores
+### Jobs to be done
 
 #### Proprietários
 
@@ -118,7 +120,7 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
 | **Aulas particulares com alunos**                                                 | **Falta de informação de determinado educador físico**                                             |
 | **Oferecer orientação profissional aos praticantes em arenas ou ao ar livre**   | **Dificuldade em alcançar pessoas que já estão decididas a praticar esportes ao ar livre/arenas.** |
-| **Divulga seu trabalho com amigos e conhecidos que desejam a prática esportiva** | **Sem canal de divulgação de seu trabalho (dependendo apenas de redes sociais)**                         |
+| **Divulga seu trabalho com amigos e conhecidos que desejam a prática esportiva** | **Sem canal de divulgação de seu trabalho (dependendo apenas de redes sociais)**                    |
 | **Encontrar uma fonte estável de renda e de alunos ou atletas**                  | **Incerteza de renda e alta rotatividade de alunos.**                                                 |
 |                                                                                         |                                                                                                             |
 |                                                                                         |                                                                                                             |
@@ -127,7 +129,7 @@ Membros: Erick Levi, Luris Gustavo, Wanessa Honorato e João Paulo
 
 | Job                                                                                   | Dor                                                                                                          |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Encontrar locais para praticar algum esporte (Explorar eventos)**             | **Não saber a localidade precisa de onde irá ocorrer um encontro de uma modalidade**                      |
+| **Encontrar locais para praticar algum esporte (Explorar eventos)**             | **Não saber a localidade precisa de onde irá ocorrer um encontro de uma modalidade**                 |
 | **Confirmar presença em algum evento**                                         | **Dificuldade de garantir participação em eventos esportivos muito lotados ou informais**            |
 | **Se sociabilizar para encontrar novas pessoas que gostam da mesma modalidade** | **Falta de integração entre praticantes,Não saber com quem irá praticar ou quem estará presente** |
 | **Descobrir novos esportes**                                                    | **Falta de informação sobre esportes menos populares e locais onde são praticados.**                |
