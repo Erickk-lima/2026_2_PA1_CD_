@@ -1,4 +1,5 @@
 # 2026_2_PA1_CD_
+
 Projeto da cadeira de *Projeto Aplicado ao Desenvolvimento de Software*
 
 Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo.
@@ -88,15 +89,15 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo.
 
 #### Proprietários
 
-![1788222410875](image/README/1788222410875.png)
+![MapaEmpatiaProprietarios](image/README/MapaEmpatiaProprietarios.png)
 
 #### Educadores
 
-![1788222554095](image/README/1788222554095.png)
+![MapaEmpatiaEducadores](image/README/MapaEmpatiaEducadores.png)
 
 #### Praticantes
 
-![1788222054741](image/README/1788222054741.png)
+![MapaEmpatiaPraticantes](image/README/MapaEmpatiaPraticantes.png)
 
 ---
 
@@ -120,7 +121,7 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo.
 
 #### Proprietários
 
-- **Entrevista:** https://docs.google.com/document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU/edit?tab=t.0#heading=h.z8uy5sgfb3ds
+- **Entrevista:** https://docs.google.com/document/d/1sDminaIn9qrit93ZN1psdwe9W7EtuCOJbLmnE88ZjsU
 - **Formulário:** https://docs.google.com/forms/d/e/1FAIpQLSd8m3vw9vIEf5k7tM3u0t55znOSXPIqH8rj7ygS1-WrcCkmMA/viewform?usp=sharing&ouid=110855864352798958630
 
 #### Educadores
@@ -139,30 +140,30 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo.
 
 #### Proprietários
 
-| Job | Dor |
-| --- | --- |
+| Job                                                                              | Dor                                                                                    |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | **Criar os locais de encontros para práticas esportivas (Criar Eventos)** | **Locais ficam vazios pela falta de acesso a informação de determinado local** |
-| **Adquirir novos alunos de modalidades diferentes** | **Dificuldade para encontrar novos alunos** |
-| **Estar mais disponível em buscas de pessoas que desejam algum esporte** | **Baixa visibilidade** |
-| **Estar mais disponível em buscas de pessoas que desejam algum esporte** | **Baixa demanda de novos esportes** |
+| **Adquirir novos alunos de modalidades diferentes**                        | **Dificuldade para encontrar novos alunos**                                      |
+| **Estar mais disponível em buscas de pessoas que desejam algum esporte**  | **Baixa visibilidade**                                                           |
+| **Estar mais disponível em buscas de pessoas que desejam algum esporte**  | **Baixa demanda de novos esportes**                                              |
 
 #### Educadores
 
-| Job | Dor |
-| --- | --- |
-| **Aulas particulares com alunos** | **Falta de informação de determinado educador físico** |
-| **Oferecer orientação profissional aos praticantes em arenas ou ao ar livre** | **Dificuldade em alcançar pessoas que já estão decididas a praticar esportes ao ar livre/arenas** |
-| **Divulga seu trabalho com amigos e conhecidos que desejam a prática esportiva** | **Sem canal de divulgação de seu trabalho (dependendo apenas de redes sociais)** |
-| **Encontrar uma fonte estável de renda e de alunos ou atletas** | **Incerteza de renda e alta rotatividade de alunos** |
+| Job                                                                                     | Dor                                                                                                        |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Aulas particulares com alunos**                                                 | **Falta de informação de determinado educador físico**                                            |
+| **Oferecer orientação profissional aos praticantes em arenas ou ao ar livre**   | **Dificuldade em alcançar pessoas que já estão decididas a praticar esportes ao ar livre/arenas** |
+| **Divulga seu trabalho com amigos e conhecidos que desejam a prática esportiva** | **Sem canal de divulgação de seu trabalho (dependendo apenas de redes sociais)**                   |
+| **Encontrar uma fonte estável de renda e de alunos ou atletas**                  | **Incerteza de renda e alta rotatividade de alunos**                                                 |
 
 #### Praticantes
 
-| Job | Dor |
-| --- | --- |
-| **Encontrar locais para praticar algum esporte (Explorar eventos)** | **Não saber a localidade precisa de onde irá ocorrer um encontro de uma modalidade** |
-| **Confirmar presença em algum evento** | **Dificuldade de garantir participação em eventos esportivos muito lotados ou informais** |
+| Job                                                                                   | Dor                                                                                                           |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Encontrar locais para praticar algum esporte (Explorar eventos)**             | **Não saber a localidade precisa de onde irá ocorrer um encontro de uma modalidade**                  |
+| **Confirmar presença em algum evento**                                         | **Dificuldade de garantir participação em eventos esportivos muito lotados ou informais**             |
 | **Se sociabilizar para encontrar novas pessoas que gostam da mesma modalidade** | **Falta de integração entre praticantes; não saber com quem irá praticar ou quem estará presente** |
-| **Descobrir novos esportes** | **Falta de informação sobre esportes menos populares e locais onde são praticados** |
+| **Descobrir novos esportes**                                                    | **Falta de informação sobre esportes menos populares e locais onde são praticados**                  |
 
 ---
 
@@ -270,11 +271,11 @@ Membros: Erick Levi, Luis Gustavo, Wanessa Honorato e João Paulo.
 
 ### Jornada de Usuário
 
-| Ator | Objetivo | Etapa 1 | Etapa 2 | Etapa 3 | Etapa 4 |
-| --- | --- | --- | --- | --- | --- |
-| **Proprietários** | Cadastrar e manter uma vitrine confiável do espaço de práticas esportivas como endereço, horário, programação e participantes. | Iniciar o cadastro do espaço esportivo | Cadastrar as categorias dos esportes | Selecionar os horários em que estará aberto | Gerenciar disponibilidade e horários de funcionamento |
-| **Educadores Físicos** | Cadastrar e manter uma vitrine confiável de profissional físico qualificado como disponibilidade, horários, esportes que ensina e treina. Ganhar uma visibilidade melhor para reconhecimento. | Iniciar o cadastro profissional com suas qualificações | Selecionar seus horários de disponibilidades | Mostrar os esportes ou práticas esportivas que treina | Obter nível de qualificação para melhor visibilidade |
-| **Alunos** | Descobrir um local para praticar esportes ou atividades físicas e confirmar programação de eventos ou jogos durante seu plano do dia. | Visualizar os esportes ou eventos programados disponíveis no mapa | Pesquisar qual modalidade preferir praticar naquele dia | Se registrar em um determinado jogo para garantia de vaga | Selecionar os horários abertos e comparecer ao evento |
+| Ator                          | Objetivo                                                                                                                                                                                         | Etapa 1                                                            | Etapa 2                                                 | Etapa 3                                                   | Etapa 4                                                 |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------- |
+| **Proprietários**      | Cadastrar e manter uma vitrine confiável do espaço de práticas esportivas como endereço, horário, programação e participantes.                                                            | Iniciar o cadastro do espaço esportivo                            | Cadastrar as categorias dos esportes                    | Selecionar os horários em que estará aberto             | Gerenciar disponibilidade e horários de funcionamento  |
+| **Educadores Físicos** | Cadastrar e manter uma vitrine confiável de profissional físico qualificado como disponibilidade, horários, esportes que ensina e treina. Ganhar uma visibilidade melhor para reconhecimento. | Iniciar o cadastro profissional com suas qualificações           | Selecionar seus horários de disponibilidades           | Mostrar os esportes ou práticas esportivas que treina    | Obter nível de qualificação para melhor visibilidade |
+| **Alunos**              | Descobrir um local para praticar esportes ou atividades físicas e confirmar programação de eventos ou jogos durante seu plano do dia.                                                         | Visualizar os esportes ou eventos programados disponíveis no mapa | Pesquisar qual modalidade preferir praticar naquele dia | Se registrar em um determinado jogo para garantia de vaga | Selecionar os horários abertos e comparecer ao evento  |
 
 ---
 
